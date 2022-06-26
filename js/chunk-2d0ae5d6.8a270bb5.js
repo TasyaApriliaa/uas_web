@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ae5d6"],{"0a6e":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h1",[e._v("Selamat Datang Di Website UAS")]),t("br"),t("div")])}],c={},i=c,l=t("2877"),u=Object(l["a"])(i,a,r,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0ae5d6.8a270bb5.js.map
